@@ -6,7 +6,7 @@ This is a display of sample websites that I made using HTML and CSS.
 
 - [Space Station Site](https://aganauskaite.github.io/HTML-and-CSS-projects/Academy_cinemas_bootstrap/academy_cinemas.html)
 - [Movie Theater Site](https://aganauskaite.github.io/HTML-and-CSS-projects/OnePageWebsite/Galaxy.html)
-- [One-Page Website Submission Assignment](https://aganauskaite.github.io/HTML-and-CSS-projects/Portfolio/index.html)
+- [One-Page Website Submission Assignment/Portfolio](https://aganauskaite.github.io/)
 
 
 ### Space Station Site
